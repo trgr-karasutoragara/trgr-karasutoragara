@@ -51,10 +51,12 @@ I aim to craft tools that empower the next generation.
 
 ## 🌐 Platforms
 
-- 📚 [Academia.edu](https://independent.academia.edu/TrgrKarasuToragara) – Theory and papers  
+- 📚 [Academia.edu](https://independent.academia.edu/TrgrKarasuToragara) – Theory and papers
+- 🦋[Codeberg](https://codeberg.org/trgr/) – Open-source projects & dev logs
 - ✍️ [Substack](https://trgrkarasutoragara.substack.com/) – Essays and thought logs  
 - 📝 [note.com (日本語)](https://note.com/karasu_toragara) – Japanese articles  
 - 🌍 [WordPress](https://trgr-lab.com/) – English essays on a custom domain (updated infrequently)
+
 
 <br>
 
