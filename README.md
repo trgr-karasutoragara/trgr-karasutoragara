@@ -42,8 +42,21 @@ I aim to craft tools that empower the next generation.
 
 ## 🔭 Current Focus
 
-### 🧩 The Preventive Structure Philosophy Framework  
-👉 [GitHub Repository](https://github.com/trgr-karasutoragara/zen-structure-4-u)
+### 🧩 一期一会 Ichigo Ichi-e - One Time, One Meeting  
+👉 [GitHub](https://github.com/trgr-karasutoragara/zen-info-your-life-is-yours/tree/main/1go1e)
+
+<br>
+
+## 🦋Portfolio on Codeberg
+My main prototypes and deliverables are published on Codeberg as well. All of them are released under the MIT License, just like on GitHub. Below is a recent release history:
+
+<br>
+
+- 2025/07/31: Released Prototype Framework: Rust API for Python and SQLite 👉 [Codeberg](https://codeberg.org/trgr/rust-api-4-py-and-sql)
+- 2025/08/01: Released Whitelist for Information Overload Era - Multilingual Version 👉 [Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/information-overload/rss-news/)
+- 2025/08/02: Released multilingual_ver02_balanced.py 👉 [Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/information-overload/rss-news#update-jst-2025-08-02-00-12-multilingual_ver02_balanced-py-https-codeberg-org-trgr-humanitiestoolkit-src-branch-main-information-overload-rss-news-multilingual_ver02_balanced-py)
+- 2025/08/02: Released and improved csv-2-b_chart-and-w_clouds.py 👉 [Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/information-overload/rss-news#csv-2-b_chart-and-w_clouds-py)
+- 2025/08/04: Released framework-sounding-board 👉 [Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/education/framework-sounding-board)
 
 <br>
 
