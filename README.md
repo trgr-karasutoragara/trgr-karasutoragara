@@ -16,8 +16,6 @@ This is a personal initiative that bridges **AI ethics** in both theory and impl
 
 With a background in the **call center industry**, I care deeply about **hospitality**, **user safety**, and especially **preventive system design**.
 
-With a background in the **call center industry**, I care deeply about **hospitality**, **user safety**, and especially **preventive system design**.
-
 Since I carry out both the theoretical design and practical implementation on my own, I have no need to rely on external funding.  
 This allows me to build prototypes even in areas where budgets are hard to obtain, such as **education** and **welfare**.
 
