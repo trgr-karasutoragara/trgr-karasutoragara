@@ -55,8 +55,7 @@ My main prototypes and deliverables are published on Codeberg as well. All of th
 - 2025/08/02: Released multilingual_ver02_balanced.py 👉 [Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/information-overload/rss-news#update-jst-2025-08-02-00-12-multilingual_ver02_balanced-py-https-codeberg-org-trgr-humanitiestoolkit-src-branch-main-information-overload-rss-news-multilingual_ver02_balanced-py)
 - 2025/08/02: Released and improved csv-2-b_chart-and-w_clouds.py 👉 [Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/information-overload/rss-news#csv-2-b_chart-and-w_clouds-py)
 - 2025/08/04: Released framework-sounding-board 👉 [Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/education/framework-sounding-board)
-- 2025/08/07: Released Quantum Philosophy Sonar (Philo-LLM): A Local, MIT-licensed LLM Pipeline for Ethical Deliberation 👉 [Codeberg](https://codeberg.org/trgr/quantum-philosophy-sonar/) / [Academia.edu](https://www.academia.edu/143288853/Quantum_Philosophy_Sonar_Philo_LLM_A_Local_MIT_licensed_LLM_Pipeline_for_Ethical_Deliberation)
-
+- 2025/08/07: ~~Released Quantum Philosophy Sonar (Philo-LLM): A Local, MIT-licensed LLM Pipeline for Ethical Deliberation 👉 Codeberg / Academia.edu~~ Due to confirmed thermal runaway, I have retracted the paper and closed the repository.(2025/08/08)
 <br>
 
 ---
