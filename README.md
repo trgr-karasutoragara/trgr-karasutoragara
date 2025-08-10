@@ -56,6 +56,8 @@ My main prototypes and deliverables are published on Codeberg as well. All of th
 - 2025/08/02: Released and improved csv-2-b_chart-and-w_clouds.py 👉 [Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/information-overload/rss-news#csv-2-b_chart-and-w_clouds-py)
 - 2025/08/04: Released framework-sounding-board 👉 [Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/education/framework-sounding-board)
 - 2025/08/07: ~~Released Quantum Philosophy Sonar (Philo-LLM): A Local, MIT-licensed LLM Pipeline for Ethical Deliberation 👉 Codeberg / Academia.edu~~ Due to confirmed thermal runaway, I have retracted the paper and closed the repository.(2025/08/08)
+- 2025/08/10: Released note-zip-2-sqlite.py 👉[Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/nz2s)
+
 <br>
 
 ---
