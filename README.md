@@ -58,6 +58,9 @@ My main prototypes and deliverables are published on Codeberg as well. All of th
 - 2025/08/07: ~~Released Quantum Philosophy Sonar (Philo-LLM): A Local, MIT-licensed LLM Pipeline for Ethical Deliberation 👉 Codeberg / Academia.edu~~ Due to confirmed thermal runaway, I have retracted the paper and closed the repository.(2025/08/08)
 - 2025/08/10: Released note-zip-2-sqlite.py 👉[Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/nz2s)
 - 2025/08/19: Released Sustained Outrage Playbook — A nonviolent, ethics-first protocol for translating acute anger into durable, institutional change. 👉[Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/sustained-outrage-playbook/)
+- 2025/08/20: Released AI as Sub-Brain: Cyborg Manifesto Renaissance 👉[Codeberg](https://codeberg.org/trgr/cyborg-manifesto-renaissance/)
+
+
 
 
 <br>
