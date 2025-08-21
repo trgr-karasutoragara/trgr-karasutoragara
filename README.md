@@ -43,6 +43,11 @@ I aim to craft tools that empower the next generation.
 ### 🧩 一期一会 Ichigo Ichi-e - One Time, One Meeting  
 👉 [GitHub](https://github.com/trgr-karasutoragara/zen-info-your-life-is-yours/tree/main/1go1e)
 
+### 2025/08/22: Released rolls-veil-2u
+👉[GitHub](https://github.com/trgr-karasutoragara/rolls-veil-2u/)
+
+
+
 <br>
 
 ## 🦋Portfolio on Codeberg
@@ -59,7 +64,6 @@ My main prototypes and deliverables are published on Codeberg as well. All of th
 - 2025/08/10: Released note-zip-2-sqlite.py 👉[Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/nz2s)
 - 2025/08/19: Released Sustained Outrage Playbook — A nonviolent, ethics-first protocol for translating acute anger into durable, institutional change. 👉[Codeberg](https://codeberg.org/trgr/HumanitiesToolkit/src/branch/main/sustained-outrage-playbook/)
 - 2025/08/20: Released AI as Sub-Brain: Cyborg Manifesto Renaissance 👉[Codeberg](https://codeberg.org/trgr/cyborg-manifesto-renaissance/)
-- 2025/08/22: Released rolls-veil-2u 👉[GitHub](https://github.com/trgr-karasutoragara/rolls-veil-2u/)
 
 
 
