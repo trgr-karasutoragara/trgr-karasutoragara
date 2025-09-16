@@ -46,6 +46,10 @@ I aim to craft tools that empower the next generation.
 ### 2025/08/22: Released rolls-veil-2u
 👉[GitHub](https://github.com/trgr-karasutoragara/rolls-veil-2u/)
 
+### 2025/09/17 cogito-metaSQLite
+👉[GitHub](https://github.com/trgr-karasutoragara/cogito-metaSQLite)
+
+
 
 
 <br>
